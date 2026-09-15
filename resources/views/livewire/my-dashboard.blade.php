@@ -1,4 +1,4 @@
-<div>
+ <div>
 
 {{--    <svg width="100%" height="100%" id="svg" viewBox="0 0 1440 590" xmlns="http://www.w3.org/2000/svg"--}}
 {{--         class="transition duration-300 ease-in-out delay-150">--}}
@@ -270,111 +270,6 @@
                 </form>
             </div>
 
-        </div>
-
-            <br><br><br><br>
-
-
-        <div class="mx-auto p-3 text-center">
-            <div>
-                <h1>کالا های ما</h1>
-            </div>
-
-            <table style="width: 40%" class="mx-auto bg-green-50 table-secondary table">
-                <tr class="bg-red-500">
-                    <th class="bg-red-500">#</th>
-                    <th class="bg-red-500">نام</th>
-                    <th>دیدن</th>
-                </tr>
-
-                <tr>
-                    <td>1</td>
-                    <td>برنج طارم</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 1]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>2</td>
-                    <td>برنج هاشمی</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 2]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>3</td>
-                    <td>برنج علی کاظمی</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 3]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>4</td>
-                    <td>برنج عنبر بو</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 4]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>5</td>
-                    <td>برنج چمپا</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 5]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>6</td>
-                    <td>برنج فجر</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 6]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>7</td>
-                    <td>برنج ندا</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 7]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>8</td>
-                    <td>برنج صدری</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 8]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>9</td>
-                    <td>برنج شیرودی</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 9]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>10</td>
-                    <td>برنج طارم زنجان</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 10]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>11</td>
-                    <td>برنج محسن</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 11]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>12</td>
-                    <td>برنج کانوش</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 12]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>13</td>
-                    <td>برنج طبیعت</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 13]) }}">دیدن</a></td>
-                </tr>
-
-                <tr>
-                    <td>14</td>
-                    <td>برنج هندی</td>
-                    <td><a class="my_link" href="{{ \Illuminate\Support\Facades\URL::signedRoute('all_pros',['i' => 14]) }}">دیدن</a></td>
-                </tr>
-
-
-
-
-            </table>
         </div>
 
             <br><br><br><br>
