@@ -9,10 +9,6 @@
   allowing them to discover, compare, and choose products from different vendors.
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e9f08af7-c219-496b-b0db-eab635f77490" alt="RiceKala Preview">
-</p>
-
 ---
 
 ## 📌 About
