@@ -1,9 +1,4 @@
 # RiceKala
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e9f08af7-c219-496b-b0db-eab635f77490" alt="RiceKala Screenshot">
-</p>
-
 <p align="center">
   A multi-vendor marketplace for rice, connecting customers with multiple sellers and making it easier to compare and choose rice products.
 </p>
@@ -101,7 +96,7 @@ php artisan serve
 
 ## Author
 
-**Amin Fakouri**
+**Mohammad Amin Fakouri**
 
 Laravel & Livewire Developer
 Growing into AI Engineering
